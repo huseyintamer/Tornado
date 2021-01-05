@@ -50,39 +50,13 @@ void loop()
  display.showNumberDec(speed1, true);
      delay(200);
   
-  if (buttonState != lastButtonState) {
+
   
-    if (buttonState == HIGH) {
-      buttonPushCounter++;
-      Serial.println("on");
+
             digitalWrite(in3, LOW);
   digitalWrite(in4, HIGH);
  
-    
-    } else {
-          
-           digitalWrite(in3, LOW);
-  digitalWrite(in4, LOW);
   
-      Serial.println("off");
-    }
-    delay(50);
-  }
-  lastButtonState = buttonState;
-
-  if (buttonPushCounter % 2 == 0) {
-   
-    
-            digitalWrite(in3, LOW);
-  digitalWrite(in4, LOW);
-
-  } else {
- 
-
-
-  digitalWrite(in3, LOW);
-  digitalWrite(in4, HIGH);
-  }
 
 }
-  
+    
