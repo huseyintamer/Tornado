@@ -7,7 +7,7 @@
 - Low Cost
 - High Performance
 
-####Parts
+### Parts
 
 - Arduino (nano, pro, mini)
 - DC Motor
@@ -27,6 +27,6 @@
 
 ![](https://raw.githubusercontent.com/huseyintamer/Tornado/main/Images/Tornado-15H.png)
 
-![](https://github.com/huseyintamer/Tornado/blob/main/Images/Tornado-15H.png)
+![](https://github.com/huseyintamer/Tornado/blob/main/Images/Tornado-12H.png)
 
 #End
