@@ -17,7 +17,7 @@
 - Potentiometer
 - Neodymium Magnet (2 Piece)
 
-`3D Parts` : <https://www.thingiverse.com/thing:4711571>
+`3D Parts` : <https://www.thingiverse.com/thing:4715686>
 
 ## Renders Fusion 360
 
